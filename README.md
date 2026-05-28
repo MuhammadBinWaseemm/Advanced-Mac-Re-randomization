@@ -3,6 +3,7 @@
 This repository contains the `ns-3` implementation of an advanced privacy-preserving MAC address randomization framework for IEEE 802.11 Wi-Fi networks. It is designed to defeat sophisticated passive tracking adversaries who utilize Timing Correlation, Traffic Flow Analysis, and Sequence Number Tracking to deanonymize users.
 
 ---
+*Note: This repository only contains the modified files, since the complete `ns-3` framework cannot be uploaded to GitHub.*
 
 # Core Security Mechanisms
 
